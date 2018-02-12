@@ -1,2 +1,4 @@
 # network_choice
-simple network model for decision processes
+Simple network model for decision processes
+
+Totally exploratory work.
